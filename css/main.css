@@ -1,0 +1,36 @@
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2{
+  font-family: 'Source Code Pro', monospace;
+}
+
+header{
+  height: 800px;
+}
+
+portfolio{
+  height: 1550px;
+}
+
+about{
+  height: 550px;
+}
+
+contact{
+  height: 400px;
+}
+
+.full-width{
+  width: 1200px;
+  margin: auto;
+}
+
+.half-width{
+  width: 600px;
+}
+
+.third-width{
+  width: 400px;
+}
